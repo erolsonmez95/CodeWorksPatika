@@ -1,0 +1,34 @@
+{
+    "contents": "<p><strong>Job Description</strong><br>Intel Wireless Communication Solutions WCS is a world class leader in wireless connectivity and the industrys 1 provider of PC WiFi BT solutions.<br>WCS design the next generation of WiFi and BT technology, delivering ultra fast, low latency, low power and ultra reliable wireless connectivity for 100s of million people worldwide, enhancing experiences that range from businesses, education and health to gaming and industrial services.<br><br>WCS CIV Connectivity Integration and Validation org. is responsible for the quality and timely system validation of WCS products using, state of the art, cutting edge validation tools, flows and methodologies including use of ML AI, Crowdsourcing, CI CD, etc.<br><br>We are looking for a top notch System validation engineer for the Connectivity validation team.<br><br>In this role you will be part of WCS CIV, a leading team which responsible for the E2E system validation, integration, regression and debug. You will gain knowledge in, and contribute to, the most advanced wireless technologies.<br><br>The role requires a broad understating of multiple systems, interacting and collaborating with System, Design, Software and additional Validation teams.<br><br> #WCSHIRING <br><br><strong>Qualifications</strong><br><br>BSc in Computer Science, Computer Engineering, EE or similar<br><br>6+ years of experience in validation of SW HW products<br><br>Knowledge in communication and wireless protocols - an advantage<br><br>Low level debug capabilities<br><br>Strong analysis skills<br><br>Very good problem-solving skills<br><br>Automation experience C-Sharp, Python , or similar .Net - Python is an advantage<br><br>Great interpersonal, communication and learning skills<br><br>Highly motivated, self-learning ability and strong technical skills<br><br>Leadership abilities<br><br>Experience with various OSs - an advantage<br><br><strong>Inside this Business Group</strong><br>The Client Computing Group (CCG) is responsible for driving business strategy and product development for Intel's PC products and platforms, spanning form factors such as notebooks, desktops, 2 in 1s, all in ones. Working with our partners across the industry, we intend to continue to advance PC experiences to deliver the real-world performance people demand. As the largest business unit at Intel, CCG is investing more heavily in the PC, ramping its capabilities even more aggressively, and designing the PC experience even more deliberately, including delivering a predictable cadence of leadership products. As a result, we are able to fuel innovation across Intel, providing an important source of IP and scale, as well as help the company deliver on its purpose of enriching the lives of every person on earth.<br><br>IL Experienced Hire JR0186036 Petach-Tiqwa Client Computing Group</p>",
+    "name": "Software validation engineer",
+    "type": "external",
+    "publication_date": "2021-10-09T23:13:06Z",
+    "short_name": "software-validation-engineer-3cfa33",
+    "model_type": "jobs",
+    "id": 7044770,
+    "locations": [
+        {
+            "name": "Ramat Gan, Israel"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+            "name": "Senior Level",
+            "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/intel/software-validation-engineer-3cfa33"
+    },
+    "company": {
+        "id": 53,
+        "short_name": "intel",
+        "name": "Intel"
+    }
+}

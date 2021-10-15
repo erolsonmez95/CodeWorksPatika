@@ -12,6 +12,8 @@ target 'CodeWorksPatika' do
     :hermes_enabled => false
   )
 
+  pod 'RNReanimated', :path => '../node_modules/react-native-reanimated'
+
   target 'CodeWorksPatikaTests' do
     inherit! :complete
     # Pods for testing
